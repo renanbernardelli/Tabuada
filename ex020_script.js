@@ -17,4 +17,6 @@ function tabuada(){
             c++;
         }
     }
+    num.value = '';
+    num.focus();
 }
